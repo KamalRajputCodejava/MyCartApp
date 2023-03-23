@@ -1,0 +1,19 @@
+.admin .card{
+    border: 1px solid gray;
+
+}
+.admin .card:hover{
+    background:#e2e2e2 ;
+    cursor:pointer;
+
+}
+.discount-label{
+    font-size: 10px !important;
+    font-style:italic !important;
+
+}
+.product-card hover {
+    background:#e2e2e2 ;
+    cursor:pointer;
+
+}
